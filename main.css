@@ -21,7 +21,7 @@ nav {
   background:lightgrey;
 }
 .container {
-  height:580px;
+  height:600px;
   margin-bottom:2em;
 }
 .skillsIcons{
@@ -62,7 +62,10 @@ justify-content:center;
   margin:2em 0;
   height:555px;
   text-align: center;
-
+  width:30%;
+}
+.card-text {
+  height:160px;
 }
 .card-img-top {
   height:180px;
@@ -95,3 +98,14 @@ justify-content:center;
   top: 0;
   width: 100%;
 }
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+.cardIconOuterHolder{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+/* .cardIconInnerHolder {
+  margin:.5em
+} */
