@@ -37,14 +37,6 @@ nav {
   margin:0 auto;
 
 }
-.iconTextHolder {
-  margin:2em;
-  text-align: center;
-  width: 10%;
-}
-#skillContainer {
-  margin-top:7em;
-}
 .iconHolder {
   width:100%;
 justify-content:center;
@@ -52,6 +44,32 @@ justify-content:center;
   flex-direction: row;
   text-align: center;
 }
+
+.iconTextHolder {
+  margin:2em;
+  text-align: center;
+  width: 10%;
+}
+.skillsIcons2{
+  height:48px;
+  width: 48px;
+}
+.iconTextHolder2 {
+  margin:2em;
+  text-align: center;
+  width: 96px;
+}
+.iconHolder2 {
+  width:100%;
+justify-content:center;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+#skillContainer {
+  margin-top:7em;
+}
+
 .projectCardHolder {
   display: flex;
   flex-direction: row;
