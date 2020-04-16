@@ -237,7 +237,7 @@
     display: flex;
     flex-direction: row;
     text-align: center;
-    margin-top: 1.5em;
+    margin-top: 1em;
   }
   #skillContainer {
     height:700px;
@@ -323,7 +323,7 @@
   }
   .aboutmeH3 {
     margin-top:.5em;
-    margin-bottom:1em;
+    margin-bottom:.75em;
     color:#C60021;
   }
 }
@@ -511,7 +511,7 @@
 
   nav {
     background:lightgrey;
-    
+
   }
   .container {
     height:600px;
@@ -580,7 +580,7 @@
     height:160px;
   }
   .card-img-top {
-    height:180px;
+    height:200px;
   }
   #footer {
     position: fixed;
@@ -595,6 +595,7 @@
   .card-title {
     font-size: 1.5em;
     margin:1em 0;
+
   }
 
   .iframe-container {
@@ -642,9 +643,12 @@
     height:626px;
   }
   .aboutmeH3 {
-    margin-top:3.5em;
+    margin-top:3em;
     margin-bottom:1.5em;
     color:#C60021;
+  }
+  .aboutMeLi {
+    font-size: 1.4em;
   }
 }
 /* CSS BELOW IS FOR 1200px and above */
