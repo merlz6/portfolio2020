@@ -91,6 +91,7 @@
   }
   .card-text {
     height:160px;
+    font-size: 1.1em;
   }
   .card-img-top {
     height:180px;
@@ -107,7 +108,7 @@
     font-size: .75em;
   }
   .card-title {
-    font-size: 1.5em;
+    font-size: 1.75em;
     margin:1em 0;
   }
 
@@ -157,8 +158,11 @@
     margin-top:.5em;
     margin-bottom:1em;
     color:#C60021;
+    font-size: 2em;
   }
-
+.aboutMeLi {
+  font-size: 1.15em;
+}
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   .technologiesH3{
@@ -507,6 +511,7 @@
 
   nav {
     background:lightgrey;
+    
   }
   .container {
     height:600px;
