@@ -251,12 +251,12 @@
   }
   .card {
     margin:2em 0;
-    height:600px;
+    height:650px;
     text-align: center;
     width:40%;
   }
   .card-text {
-    height:160px;
+    height:220px;
   }
   .card-img-top {
     height:180px;
@@ -274,6 +274,7 @@
   .card-title {
     font-size: 1.5em;
     margin:1em 0;
+    height:56px;
   }
 
   .iframe-container {
