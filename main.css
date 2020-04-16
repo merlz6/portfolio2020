@@ -1,4 +1,3 @@
-@media (min-width: 576px) {
   .technologiesH3{
 
   }
@@ -18,6 +17,7 @@
   }
   ul {
     list-style: none;
+    padding:0;
   }
 
   nav {
@@ -39,8 +39,10 @@
     text-align: center;
     max-width:100%;
     margin:0 auto;
+    justify-content: center;
 
   }
+
   .iconHolder {
     width:100%;
   justify-content:center;
@@ -52,7 +54,7 @@
   .iconTextHolder {
     margin:2em;
     text-align: center;
-    width: 10%;
+    width: 15%;
   }
   .skillsIcons2{
     height:48px;
@@ -72,7 +74,7 @@
     margin-top: 1.5em;
   }
   #skillContainer {
-    height:700px;
+    height:1000px;
   }
 
   .projectCardHolder {
@@ -85,7 +87,7 @@
     margin:2em 0;
     height:600px;
     text-align: center;
-    width:40%;
+    width:80%;
   }
   .card-text {
     height:160px;
@@ -102,6 +104,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    font-size: .75em;
   }
   .card-title {
     font-size: 1.5em;
@@ -150,15 +153,11 @@
   .footerLinks{
      color:#C60021;
    }
-  #projectsContainer {
-
-  }
   .aboutmeH3 {
     margin-top:.5em;
     margin-bottom:1em;
     color:#C60021;
   }
- }
 
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
