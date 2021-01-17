@@ -26,9 +26,10 @@
 
   nav {
     background:lightgrey;
-    height:3.5em;
+    height:4em;
 
   }
+
   .container {
     height:700px;
     margin-bottom:2em;
@@ -153,7 +154,7 @@
 
   .nav-link {
   font-size: 1.5em;
-
+  color:#C60021;
   }
 
   #nameLogo {
