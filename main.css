@@ -55,7 +55,7 @@
 
   .iconHolder {
     width:100%;
-  justify-content:center;
+    justify-content:center;
     display: flex;
     flex-direction: row;
     text-align: center;
@@ -84,7 +84,7 @@
     margin-top: 1.5em;
   }
   #skillContainer {
-    height:1100px;
+    height:1200px;
     margin-bottom: 2.5em;
   }
 
